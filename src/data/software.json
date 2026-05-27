@@ -1,0 +1,2070 @@
+[
+  {
+    "slug": "steam",
+    "name": "Steam",
+    "category": "game",
+    "category_name": "游戏平台",
+    "tagline": "全球最大的PC游戏数字发行平台",
+    "official_url": "https://store.steampowered.com",
+    "download_url": "https://store.steampowered.com/about/",
+    "description": "Steam 是 Valve 运营的全球最大 PC 游戏数字平台，拥有超过 5 万款游戏。支持社交、创意工坊、云存档、远程同乐等功能，几乎所有主流 PC 游戏都可以在 Steam 上找到。",
+    "why_official": "所有非官方渠道的 Steam 安装包都可能被植入恶意软件、广告或盗号木马。唯一官方下载地址是 store.steampowered.com，由 Valve 数字签名，绝对安全。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "SteamOS"
+    ],
+    "install_guide": {
+      "windows": "前往 store.steampowered.com/about/ 点击「安装 Steam」→ 运行 SteamSetup.exe → 按提示完成安装 → 登录或注册账号。",
+      "mac": "前往 store.steampowered.com/about/ 下载 → 打开 .dmg 文件 → 将 Steam 拖入 Applications 文件夹。",
+      "linux": "Debian/Ubuntu: sudo apt install steam | Fedora: sudo dnf install steam | 或下载 .deb/.rpm 包安装。"
+    },
+    "faq": [
+      {
+        "q": "Steam 是免费的吗？",
+        "a": "客户端完全免费。你只需要为游戏付费。"
+      },
+      {
+        "q": "Steam 支持中文吗？",
+        "a": "完全支持简体中文界面。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "Steam 客服",
+        "url": "https://help.steampowered.com"
+      },
+      {
+        "name": "Steam 状态查询",
+        "url": "https://steamstat.us"
+      }
+    ]
+  },
+  {
+    "slug": "epic-games",
+    "name": "Epic Games Store",
+    "category": "game",
+    "category_name": "游戏平台",
+    "tagline": "每周免费游戏 + 虚幻引擎商城",
+    "official_url": "https://store.epicgames.com",
+    "download_url": "https://store.epicgames.com/download",
+    "description": "Epic Games Store 是 Epic Games 运营的 PC 游戏平台，以每周赠送免费游戏著称。同样也是虚幻引擎的官方商城，提供大量高品质游戏。",
+    "why_official": "仅从 epicgames.com 下载，避免第三方捆绑。官方启动器提供自动更新和安全保障。",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "install_guide": {
+      "windows": "前往 store.epicgames.com/download → 下载 EpicInstaller.exe → 运行安装 → 登录或注册账号。",
+      "mac": "前往官网下载 macOS 版本 → 将 Epic Games Launcher.app 拖入 Applications。"
+    },
+    "faq": [
+      {
+        "q": "Epic 每周免费游戏是真的吗？",
+        "a": "完全真实。每周四更新一款或多款免费游戏，领取后永久拥有。"
+      },
+      {
+        "q": "需要绑定信用卡才能领免费游戏吗？",
+        "a": "不需要。直接领取即可，无需任何支付方式。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "Epic 免费游戏列表",
+        "url": "https://store.epicgames.com/free-games"
+      },
+      {
+        "name": "Epic 客服",
+        "url": "https://www.epicgames.com/help"
+      }
+    ]
+  },
+  {
+    "slug": "gog-galaxy",
+    "name": "GOG Galaxy",
+    "category": "game",
+    "category_name": "游戏平台",
+    "tagline": "无DRM游戏 + 跨平台游戏库管理",
+    "official_url": "https://www.gog.com/galaxy",
+    "download_url": "https://www.gog.com/galaxy",
+    "description": "GOG Galaxy 是 CD Projekt 旗下的游戏平台，以无DRM（数字版权管理）为核心理念。同时支持整合 Steam、Epic、Xbox 等多平台的游戏库，一个启动器管理所有游戏。",
+    "why_official": "GOG 官方版本纯净无广告。第三方打包版本可能破坏无 DRM 特性或捆绑额外软件。",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "install_guide": {
+      "windows": "前往 gog.com/galaxy → 点击下载 → 运行 GalaxySetup.exe → 安装并登录。",
+      "mac": "前往 gog.com/galaxy → 下载 macOS 版 → 安装并登录。"
+    },
+    "faq": [
+      {
+        "q": "GOG 的游戏没有加密？",
+        "a": "是的。GOG 的游戏没有 DRM，下载后就是你的，无需启动器也能玩。"
+      },
+      {
+        "q": "GOG Galaxy 支持哪些平台整合？",
+        "a": "支持 Steam、Epic Games Store、Xbox、PlayStation 等。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "GOG 商店",
+        "url": "https://www.gog.com"
+      },
+      {
+        "name": "GOG 客服",
+        "url": "https://support.gog.com"
+      }
+    ]
+  },
+  {
+    "slug": "battlenet",
+    "name": "Battle.net",
+    "category": "game",
+    "category_name": "游戏平台",
+    "tagline": "暴雪/动视游戏的官方启动器",
+    "official_url": "https://www.blizzard.com/download",
+    "download_url": "https://www.blizzard.com/download",
+    "description": "Battle.net（战网）是暴雪娱乐和动视的官方游戏平台，用于管理《魔兽世界》《守望先锋》《暗黑破坏神》《使命召唤》等大作。支持好友、语音和游戏内商店。",
+    "why_official": "仅从 blizzard.com 下载，第三方版本可能包含盗号风险。官方客户端提供安全验证和自动更新。",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "install_guide": {
+      "windows": "前往 blizzard.com/download → 下载 Battle.net-Setup.exe → 运行安装 → 登录战网账号。",
+      "mac": "前往官网下载 macOS 版 → 安装并登录。"
+    },
+    "faq": [
+      {
+        "q": "Battle.net 和暴雪游戏需要额外付费吗？",
+        "a": "启动器免费。游戏需单独购买（部分免费游戏如《守望先锋》现已免费）。"
+      },
+      {
+        "q": "可以跨平台游玩吗？",
+        "a": "部分游戏支持跨平台进度同步，但需暴雪账号。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "暴雪客服",
+        "url": "https://us.battle.net/support"
+      },
+      {
+        "name": "暴雪游戏列表",
+        "url": "https://www.blizzard.com/games"
+      }
+    ]
+  },
+  {
+    "slug": "ubisoft-connect",
+    "name": "Ubisoft Connect",
+    "category": "game",
+    "category_name": "游戏平台",
+    "tagline": "育碧游戏的统一管理平台",
+    "official_url": "https://ubisoftconnect.com",
+    "download_url": "https://ubisoftconnect.com/download",
+    "description": "Ubisoft Connect 是育碧的官方游戏平台，管理《刺客信条》《孤岛惊魂》《彩虹六号》等育碧游戏。支持云存档、好友系统和跨平台进度同步。",
+    "why_official": "唯一官方来源是 ubisoftconnect.com。第三方提供的安装包可能缺乏安全更新。",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "install_guide": {
+      "windows": "前往 ubisoftconnect.com → 下载 UbisoftConnectInstaller.exe → 运行安装 → 登录育碧账号。",
+      "mac": "从官网下载 macOS 版本安装。"
+    },
+    "faq": [
+      {
+        "q": "Ubisoft Connect 是必需的吗？",
+        "a": "玩育碧的PC游戏通常需要 Ubisoft Connect 运行。"
+      },
+      {
+        "q": "支持跨平台进度吗？",
+        "a": "部分游戏支持跨平台进度同步。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "育碧客服",
+        "url": "https://www.ubisoft.com/help"
+      },
+      {
+        "name": "育碧商店",
+        "url": "https://store.ubisoft.com"
+      }
+    ]
+  },
+  {
+    "slug": "ea-app",
+    "name": "EA App",
+    "category": "game",
+    "category_name": "游戏平台",
+    "tagline": "EA 游戏的全新启动器（替代 Origin）",
+    "official_url": "https://www.ea.com/ea-app",
+    "download_url": "https://www.ea.com/ea-app",
+    "description": "EA App 是 Electronic Arts 的最新游戏平台，取代了老旧的 Origin。管理《FIFA/EA Sports FC》《APEX 英雄》《战地》《模拟人生》等 EA 游戏，提供更快的下载速度和更简洁的界面。",
+    "why_official": "仅从 ea.com 下载，这是 Origin 的官方替代品。第三方提供的旧版 Origin 安装包已不再安全更新。",
+    "platforms": [
+      "Windows",
+      "macOS"
+    ],
+    "install_guide": {
+      "windows": "前往 ea.com/ea-app → 点击下载 → 运行 EAappInstaller.exe → 安装并登录 EA 账号。",
+      "mac": "从官网下载 macOS 版安装。"
+    },
+    "faq": [
+      {
+        "q": "EA App 和 Origin 有什么区别？",
+        "a": "EA App 更快、更轻量，是 Origin 的替代品。你的 Origin 游戏库会自动迁移。"
+      },
+      {
+        "q": "Origin 还能用吗？",
+        "a": "建议迁移到 EA App。Origin 已停止更新。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "EA 帮助中心",
+        "url": "https://help.ea.com"
+      },
+      {
+        "name": "EA 游戏列表",
+        "url": "https://www.ea.com/games"
+      }
+    ]
+  },
+  {
+    "slug": "itchio",
+    "name": "itch.io",
+    "category": "game",
+    "category_name": "游戏平台",
+    "tagline": "独立游戏的大本营，支持创作者定价",
+    "official_url": "https://itch.io",
+    "download_url": "https://itch.io/app",
+    "description": "itch.io 是独立游戏开发者最大的发布平台之一。从免费小游戏到付费精品，从视觉小说到恐怖解谜，itch.io 汇集了最具创意的独立作品。也有桌面客户端用于管理游戏库。",
+    "why_official": "仅从 itch.io 下载客户端或游戏。itch.io 本身是独立开发者友好的平台，不会有恶意修改。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "install_guide": {
+      "windows": "前往 itch.io/app → 下载 itch-setup.exe → 运行安装 → 登录或注册账号。",
+      "mac": "下载 macOS 版 → 安装到 Applications。",
+      "linux": "下载 AppImage 或通过 Flathub 安装。"
+    },
+    "faq": [
+      {
+        "q": "itch.io 上的游戏都免费吗？",
+        "a": "不是。很多游戏可以免费玩或按自己的意愿付费（Pay What You Want）。"
+      },
+      {
+        "q": "itch.io 桌面客户端是必需的吗？",
+        "a": "不是。可以直接在浏览器中下载和玩游戏。客户端提供更好的库管理。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "itch.io 探索",
+        "url": "https://itch.io/games"
+      },
+      {
+        "name": "itch.io 开发者面板",
+        "url": "https://itch.io/dashboard"
+      }
+    ]
+  },
+  {
+    "slug": "xbox-app",
+    "name": "Xbox App",
+    "category": "game",
+    "category_name": "游戏平台",
+    "tagline": "Windows上的Xbox游戏和Game Pass入口",
+    "official_url": "https://www.xbox.com/apps/xbox-app-for-pc",
+    "download_url": "https://www.xbox.com/apps/xbox-app-for-pc",
+    "description": "Xbox App（原Xbox Console Companion）是 Windows 上的 Xbox 游戏平台，用于管理 Game Pass 订阅、下载 Xbox 游戏、与好友联机和远程游玩 Xbox 主机游戏。",
+    "why_official": "Xbox App 预装在 Windows 10/11 中，或从 Microsoft Store 安装。任何第三方网址声称提供 Xbox App 下载都是假的。",
+    "platforms": [
+      "Windows"
+    ],
+    "install_guide": {
+      "windows": "在 Windows 10/11 中打开 Microsoft Store → 搜索「Xbox」→ 安装 Xbox App → 登录微软账号。",
+      "mac": "Xbox App 仅限 Windows 使用。Mac 用户可通过浏览器访问 xbox.com/play 云游戏。"
+    },
+    "faq": [
+      {
+        "q": "Xbox App 需要 Game Pass 才能用吗？",
+        "a": "不需要。免费用户可以访问好友列表、语音聊天和 Xbox 社交功能。下载游戏才需要拥有或订阅。"
+      },
+      {
+        "q": "Xbox App 可以远程游玩主机吗？",
+        "a": "可以。通过 Xbox App 可以在 PC 上远程游玩你的 Xbox 主机。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "Xbox Game Pass",
+        "url": "https://www.xbox.com/gamepass"
+      },
+      {
+        "name": "Xbox 支持",
+        "url": "https://support.xbox.com"
+      }
+    ]
+  },
+  {
+    "slug": "vscode",
+    "name": "Visual Studio Code",
+    "category": "dev",
+    "category_name": "开发工具",
+    "tagline": "微软推出的免费开源代码编辑器",
+    "official_url": "https://code.visualstudio.com",
+    "download_url": "https://code.visualstudio.com/download",
+    "description": "Visual Studio Code 是微软开发的免费开源代码编辑器，支持几乎所有编程语言的智能提示、调试和 Git 集成。丰富的扩展生态可变成 IDE、Markdown 编辑器或 Jupyter Notebook 环境。",
+    "why_official": "第三方网站常提供捆绑了广告插件或修改版。官方版本由微软数字签名，支持自动更新，无任何捆绑。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "install_guide": {
+      "windows": "前往 code.visualstudio.com/download → 选择 Windows → 运行 VSCodeSetup.exe → 建议勾选「添加到 PATH」。",
+      "mac": "下载 macOS 版 → 解压 .zip → 将 Visual Studio Code.app 拖入 Applications。",
+      "linux": "下载 .deb/.rpm 包安装，或使用 Snap: sudo snap install code --classic"
+    },
+    "faq": [
+      {
+        "q": "VS Code 和 Visual Studio 区别？",
+        "a": "VS Code 是轻量级编辑器；Visual Studio 是重量级 IDE。大多数开发者用 VS Code 足矣。"
+      },
+      {
+        "q": "VS Code 是免费的吗？",
+        "a": "完全免费开源。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "VS Code 扩展市场",
+        "url": "https://marketplace.visualstudio.com"
+      },
+      {
+        "name": "VS Code GitHub",
+        "url": "https://github.com/microsoft/vscode"
+      }
+    ]
+  },
+  {
+    "slug": "git",
+    "name": "Git",
+    "category": "dev",
+    "category_name": "开发工具",
+    "tagline": "世界上最流行的版本控制系统",
+    "official_url": "https://git-scm.com",
+    "download_url": "https://git-scm.com/downloads",
+    "description": "Git 是 Linus Torvalds 开发的分布式版本控制系统，几乎所有的软件开发项目都在使用。从个人项目到 Linux 内核，Git 管理着世界上最庞大的代码库。",
+    "why_official": "仅从 git-scm.com 下载，这是 Git 的官方维护网站。第三方提供的 Git 安装包可能包含不需要的更改。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "install_guide": {
+      "windows": "前往 git-scm.com/downloads → 下载 Windows 版 → 运行安装程序，建议保持默认设置。",
+      "mac": "brew install git | 或从 git-scm.com 下载 macOS 版安装。",
+      "linux": "sudo apt install git (Ubuntu/Debian) | sudo dnf install git (Fedora)"
+    },
+    "faq": [
+      {
+        "q": "Git 和 GitHub 有什么区别？",
+        "a": "Git 是本地版本控制工具，GitHub 是基于 Git 的在线托管平台。"
+      },
+      {
+        "q": "Git 是免费的吗？",
+        "a": "完全免费开源。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "Git 官方文档",
+        "url": "https://git-scm.com/doc"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com"
+      }
+    ]
+  },
+  {
+    "slug": "nodejs",
+    "name": "Node.js",
+    "category": "dev",
+    "category_name": "开发工具",
+    "tagline": "JavaScript 运行时环境（服务端）",
+    "official_url": "https://nodejs.org",
+    "download_url": "https://nodejs.org/en/download",
+    "description": "Node.js 是建立在 Chrome V8 引擎上的 JavaScript 运行时，让 JavaScript 可以在服务器端运行。它是现代 Web 开发的基石，支持 npm（世界上最大的包管理器）。",
+    "why_official": "从 nodejs.org 下载确保安装包经过 Node.js 核心团队签名验证，无恶意修改。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "install_guide": {
+      "windows": "前往 nodejs.org → 下载 LTS 版 → 运行 .msi 安装程序 → 勾选「自动安装必要工具」。",
+      "mac": "brew install node | 或从 nodejs.org 下载 .pkg 安装。",
+      "linux": "sudo apt install nodejs npm (Ubuntu/Debian) | 或通过 nvm 安装。"
+    },
+    "faq": [
+      {
+        "q": "LTS 和 Current 版本选哪个？",
+        "a": "建议选 LTS（长期支持版），更稳定。Current 版本包含最新特性但可能不稳定。"
+      },
+      {
+        "q": "Node.js 自带 npm 吗？",
+        "a": "是的。安装 Node.js 后 npm 也会一起安装。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "npm 官方网站",
+        "url": "https://www.npmjs.com"
+      },
+      {
+        "name": "Node.js 文档",
+        "url": "https://nodejs.org/docs"
+      }
+    ]
+  },
+  {
+    "slug": "python",
+    "name": "Python",
+    "category": "dev",
+    "category_name": "开发工具",
+    "tagline": "易学易用的通用编程语言",
+    "official_url": "https://www.python.org",
+    "download_url": "https://www.python.org/downloads",
+    "description": "Python 是一种广泛使用的解释型编程语言，以简洁易读的语法著称。被用于 Web 开发、数据分析、AI/机器学习、自动化脚本、科学计算等几乎所有领域。",
+    "why_official": "从 python.org 下载确保安装包安全。第三方网站的 Python 安装包可能捆绑不需要的软件。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "install_guide": {
+      "windows": "前往 python.org/downloads → 下载最新版 → 运行安装程序 → 务必勾选「Add Python to PATH」。",
+      "mac": "brew install python3 | 或从 python.org 下载 .pkg 安装。",
+      "linux": "Ubuntu/Debian 通常预装，或 sudo apt install python3"
+    },
+    "faq": [
+      {
+        "q": "Python 2 和 Python 3 有什么区别？",
+        "a": "Python 2 已在 2020 年停止维护，请使用 Python 3。"
+      },
+      {
+        "q": "pip 是什么？",
+        "a": "pip 是 Python 的包管理器，安装 Python 后会自动安装。使用 pip install 包名 安装第三方库。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "Python 官方文档",
+        "url": "https://docs.python.org"
+      },
+      {
+        "name": "PyPI（Python 包索引）",
+        "url": "https://pypi.org"
+      }
+    ]
+  },
+  {
+    "slug": "docker",
+    "name": "Docker Desktop",
+    "category": "dev",
+    "category_name": "开发工具",
+    "tagline": "容器化应用开发与部署平台",
+    "official_url": "https://www.docker.com",
+    "download_url": "https://www.docker.com/products/docker-desktop",
+    "description": "Docker 是最流行的容器化平台，让开发者可以将应用及其依赖打包到一个标准化的容器中，在任何环境一致运行。Docker Desktop 是 Windows 和 Mac 上使用 Docker 的最简单方式。",
+    "why_official": "仅从 docker.com 下载。第三方提供的 Docker 安装包可能包含恶意软件或旧版本。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "install_guide": {
+      "windows": "前往 docker.com → 下载 Docker Desktop for Windows → 运行安装程序 → 需要 WSL2 支持。",
+      "mac": "下载 Docker Desktop for Mac → 将 .dmg 中的 Docker.app 拖入 Applications → 启动并授权。",
+      "linux": "sudo apt install docker.io (Ubuntu/Debian) | 或遵循官方文档安装 Docker Engine。"
+    },
+    "faq": [
+      {
+        "q": "Docker Desktop 是免费的吗？",
+        "a": "个人和小团队免费。大型企业需要付费订阅。"
+      },
+      {
+        "q": "Docker 和虚拟机有什么区别？",
+        "a": "Docker 容器共享宿主机内核，更轻量、启动更快。虚拟机包含完整操作系统，更重但隔离性更强。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "Docker Hub",
+        "url": "https://hub.docker.com"
+      },
+      {
+        "name": "Docker 文档",
+        "url": "https://docs.docker.com"
+      }
+    ]
+  },
+  {
+    "slug": "postman",
+    "name": "Postman",
+    "category": "dev",
+    "category_name": "开发工具",
+    "tagline": "最流行的 API 开发和测试工具",
+    "official_url": "https://www.postman.com",
+    "download_url": "https://www.postman.com/downloads",
+    "description": "Postman 是功能强大的 API 开发和测试平台。支持发送各种 HTTP 请求、管理 API 集合、环境变量、自动化测试和 API 文档生成。前后端开发者的必备工具。",
+    "why_official": "仅从 postman.com 下载。第三方网站的是旧版或修改版，可能包含安全风险。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "install_guide": {
+      "windows": "前往 postman.com/downloads → 下载 Windows 版 → 运行安装程序 → 登录或注册账号。",
+      "mac": "下载 macOS 版 → 安装到 Applications → 或 brew install --cask postman",
+      "linux": "下载 .tar.gz → 解压并运行 ./Postman | 或通过 Snap: sudo snap install postman"
+    },
+    "faq": [
+      {
+        "q": "Postman 是免费的吗？",
+        "a": "基础功能完全免费。团队协作等高级功能需要付费。"
+      },
+      {
+        "q": "Postman 需要注册账号吗？",
+        "a": "可以离线使用基础功能，但同步和协作需要注册。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "Postman 学习中心",
+        "url": "https://learning.postman.com"
+      },
+      {
+        "name": "Postman API 网络",
+        "url": "https://www.postman.com/explorer"
+      }
+    ]
+  },
+  {
+    "slug": "mysql",
+    "name": "MySQL",
+    "category": "dev",
+    "category_name": "开发工具",
+    "tagline": "世界上最流行的开源关系型数据库",
+    "official_url": "https://www.mysql.com",
+    "download_url": "https://dev.mysql.com/downloads/mysql/",
+    "description": "MySQL 是最流行的开源关系型数据库管理系统，被 Facebook、Twitter、YouTube 等巨头使用。支持 SQL 标准、事务处理、视图、存储过程等。通常与 PHP 搭配构成 LAMP 架构。",
+    "why_official": "从 dev.mysql.com 下载的安装包经过甲骨文数字签名。其他网站可能捆绑恶意软件。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "install_guide": {
+      "windows": "前往 dev.mysql.com/downloads/mysql → 下载 MSI 安装包 → 运行安装向导。",
+      "mac": "brew install mysql | 或从官网下载 .dmg 安装。",
+      "linux": "sudo apt install mysql-server (Ubuntu/Debian) | sudo dnf install mysql-server (Fedora)"
+    },
+    "faq": [
+      {
+        "q": "MySQL 是免费的吗？",
+        "a": "社区版完全免费。企业版需付费许可证。"
+      },
+      {
+        "q": "MySQL 和 MariaDB 有什么关系？",
+        "a": "MariaDB 是 MySQL 的分支，由原 MySQL 开发者创建，完全兼容。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "MySQL 文档",
+        "url": "https://dev.mysql.com/doc"
+      },
+      {
+        "name": "MySQL Workbench",
+        "url": "https://dev.mysql.com/downloads/workbench/"
+      }
+    ]
+  },
+  {
+    "slug": "filezilla",
+    "name": "FileZilla",
+    "category": "dev",
+    "category_name": "开发工具",
+    "tagline": "免费开源的 FTP/SFTP 客户端",
+    "official_url": "https://filezilla-project.org",
+    "download_url": "https://filezilla-project.org/download.php",
+    "description": "FileZilla 是最流行的免费开源 FTP 客户端，支持 FTP、SFTP 和 FTPS 协议。通过直观的拖放界面，可以轻松在本地和远程服务器之间传输文件。",
+    "why_official": "仅从 filezilla-project.org 下载。许多第三方网站提供的「FileZilla 下载」捆绑了广告软件或工具栏。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "install_guide": {
+      "windows": "前往 filezilla-project.org → 下载 FileZilla Client → 运行安装程序（注意取消勾选可选捆绑）。",
+      "mac": "下载 macOS 版 → 将 FileZilla.app 拖入 Applications。",
+      "linux": "sudo apt install filezilla (Ubuntu/Debian) | sudo dnf install filezilla (Fedora)"
+    },
+    "faq": [
+      {
+        "q": "FileZilla 是免费的吗？",
+        "a": "免费开源。FileZilla Pro 是付费版，增加云存储连接功能。"
+      },
+      {
+        "q": "FileZilla 支持断点续传吗？",
+        "a": "支持。传输中断后可继续传输。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "FileZilla 文档",
+        "url": "https://wiki.filezilla-project.org"
+      },
+      {
+        "name": "FileZilla Pro",
+        "url": "https://filezillapro.com"
+      }
+    ]
+  },
+  {
+    "slug": "discord",
+    "name": "Discord",
+    "category": "network",
+    "category_name": "网络通信",
+    "tagline": "游戏玩家和创作者的社群聊天平台",
+    "official_url": "https://discord.com",
+    "download_url": "https://discord.com/download",
+    "description": "Discord 是一款免费的社群通讯平台，最初面向游戏玩家，现已被创作者、开发者、学习小组广泛使用。支持文字、语音、视频、屏幕分享和丰富的机器人生态。",
+    "why_official": "Discord 客户端仅通过 discord.com/download 分发。第三方网站提供的版本可能包含窃取账号的后门。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "Android",
+      "iOS",
+      "Web"
+    ],
+    "install_guide": {
+      "windows": "前往 discord.com/download → 下载 Windows 版 → 运行 DiscordSetup.exe → 自动安装。",
+      "mac": "下载 macOS 版 → 将 Discord.app 拖入 Applications。",
+      "linux": "sudo snap install discord | 或下载 .deb/.rpm 包安装。"
+    },
+    "faq": [
+      {
+        "q": "Discord 免费吗？",
+        "a": "基础功能完全免费。Nitro 订阅提供额外功能。"
+      },
+      {
+        "q": "Discord 支持中文吗？",
+        "a": "完全支持中文界面。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "Discord 客服",
+        "url": "https://support.discord.com"
+      },
+      {
+        "name": "Discord 状态页",
+        "url": "https://discordstatus.com"
+      }
+    ]
+  },
+  {
+    "slug": "telegram",
+    "name": "Telegram",
+    "category": "network",
+    "category_name": "网络通信",
+    "tagline": "安全快速的跨平台即时通讯",
+    "official_url": "https://telegram.org",
+    "download_url": "https://desktop.telegram.org",
+    "description": "Telegram 是一款注重安全和速度的即时通讯应用，支持端到端加密的「秘密聊天」、频道、群组（最多20万人）、机器人和文件分享。所有平台完全免费，无广告。",
+    "why_official": "仅从 telegram.org 或官方应用商店下载。第三方网站提供的 Telegram 版本可能窃取消息。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "Android",
+      "iOS",
+      "Web"
+    ],
+    "install_guide": {
+      "windows": "前往 desktop.telegram.org → 下载 Windows 版 → 运行安装程序。或从 Microsoft Store 安装。",
+      "mac": "从 telegram.org 下载 macOS 版，或从 App Store 搜索 Telegram 安装。",
+      "linux": "sudo snap install telegram-desktop | sudo apt install telegram-desktop"
+    },
+    "faq": [
+      {
+        "q": "Telegram 安全吗？",
+        "a": "普通聊天使用客户端-服务器加密，秘密聊天使用端到端加密。服务器分布在多个国家。"
+      },
+      {
+        "q": "Telegram 需要手机号注册吗？",
+        "a": "是的。需要一个手机号接收验证码。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "Telegram 博客",
+        "url": "https://telegram.org/blog"
+      },
+      {
+        "name": "Telegram API",
+        "url": "https://core.telegram.org"
+      }
+    ]
+  },
+  {
+    "slug": "slack",
+    "name": "Slack",
+    "category": "network",
+    "category_name": "网络通信",
+    "tagline": "团队协作与工作通讯的首选",
+    "official_url": "https://slack.com",
+    "download_url": "https://slack.com/downloads",
+    "description": "Slack 是全球最流行的企业团队协作工具，以频道（Channel）组织对话。支持消息、文件分享、音视频通话、应用集成和工作流自动化。从创业公司到大型企业广泛使用。",
+    "why_official": "仅从 slack.com 下载。保证无恶意修改和数据安全。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "Android",
+      "iOS",
+      "Web"
+    ],
+    "install_guide": {
+      "windows": "前往 slack.com/downloads → 下载 Windows 版 → 运行安装程序。",
+      "mac": "下载 macOS 版 → 将 Slack.app 拖入 Applications。",
+      "linux": "sudo snap install slack | 或下载 .deb/.rpm 包。"
+    },
+    "faq": [
+      {
+        "q": "Slack 免费吗？",
+        "a": "免费版包含最近90天消息历史和10个应用集成。付费版解锁无限历史和更多功能。"
+      },
+      {
+        "q": "Slack 和 Teams 哪个好？",
+        "a": "Slack 更灵活、应用生态更丰富；Teams 与 Office 365 深度整合。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "Slack 帮助中心",
+        "url": "https://slack.com/help"
+      },
+      {
+        "name": "Slack App 目录",
+        "url": "https://slack.com/apps"
+      }
+    ]
+  },
+  {
+    "slug": "zoom",
+    "name": "Zoom",
+    "category": "network",
+    "category_name": "网络通信",
+    "tagline": "高清视频会议和在线协作平台",
+    "official_url": "https://zoom.us",
+    "download_url": "https://zoom.us/download",
+    "description": "Zoom 是最广泛使用的视频会议平台之一，支持最高1000人参与的视频会议、屏幕共享、虚拟背景、分组讨论室和录制功能。疫情期间成为远程办公的代名词。",
+    "why_official": "仅从 zoom.us/download 下载。第三方网站上的 Zoom 安装包可能包含恶意软件。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "Android",
+      "iOS",
+      "Web"
+    ],
+    "install_guide": {
+      "windows": "前往 zoom.us/download → 点击「Zoom 客户端」下载 → 运行安装程序。",
+      "mac": "下载 macOS 版 → 安装到 Applications。",
+      "linux": "下载 .deb/.rpm 包安装。"
+    },
+    "faq": [
+      {
+        "q": "Zoom 免费吗？",
+        "a": "免费版支持最多40分钟的3人以上会议，1对1不限时。"
+      },
+      {
+        "q": "Zoom 需要注册才能参加会议吗？",
+        "a": "不需要。点击会议链接即可通过浏览器加入。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "Zoom 支持中心",
+        "url": "https://support.zoom.us"
+      },
+      {
+        "name": "Zoom 状态页",
+        "url": "https://status.zoom.us"
+      }
+    ]
+  },
+  {
+    "slug": "teamviewer",
+    "name": "TeamViewer",
+    "category": "network",
+    "category_name": "网络通信",
+    "tagline": "跨平台远程桌面和远程支持工具",
+    "official_url": "https://www.teamviewer.com",
+    "download_url": "https://www.teamviewer.com/download",
+    "description": "TeamViewer 是最流行的远程桌面和远程支持软件之一。可穿透防火墙/NAT，无需复杂配置即可远程控制另一台电脑。支持文件传输、VPN、会议和远程打印。",
+    "why_official": "仅从 teamviewer.com 下载。第三方网站发布的破解版或修改版可能包含窃取信息的后门。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "Android",
+      "iOS",
+      "Web"
+    ],
+    "install_guide": {
+      "windows": "前往 teamviewer.com/download → 下载 Windows 版 → 运行安装程序，选择「安装」或「仅运行」。",
+      "mac": "下载 macOS 版 → 安装到 Applications。",
+      "linux": "下载 .deb/.rpm 包或使用 tar 包：sudo apt install teamviewer"
+    },
+    "faq": [
+      {
+        "q": "TeamViewer 免费吗？",
+        "a": "个人非商业使用免费。商业使用需购买许可证。"
+      },
+      {
+        "q": "TeamViewer 安全吗？",
+        "a": "使用 RSA 2048 密钥交换和 AES 256 会话加密。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "TeamViewer 客服",
+        "url": "https://www.teamviewer.com/support"
+      },
+      {
+        "name": "TeamViewer 远程管理",
+        "url": "https://www.teamviewer.com/remote-management"
+      }
+    ]
+  },
+  {
+    "slug": "thunderbird",
+    "name": "Thunderbird",
+    "category": "network",
+    "category_name": "网络通信",
+    "tagline": "Mozilla 出品的免费开源邮件客户端",
+    "official_url": "https://www.thunderbird.net",
+    "download_url": "https://www.thunderbird.net/download",
+    "description": "Thunderbird 是 Mozilla 开发的免费开源电子邮件客户端，支持多个邮箱账户管理、日历、联系人、聊天和 RSS 阅读。注重隐私和安全，无广告无跟踪。",
+    "why_official": "仅从 thunderbird.net 下载。其他网站可能捆绑广告软件或修改版。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "install_guide": {
+      "windows": "前往 thunderbird.net → 下载 Windows 版 → 运行安装程序。",
+      "mac": "下载 macOS 版 → 将 Thunderbird.app 拖入 Applications。",
+      "linux": "sudo apt install thunderbird (Ubuntu/Debian) | sudo dnf install thunderbird (Fedora)"
+    },
+    "faq": [
+      {
+        "q": "Thunderbird 是免费的吗？",
+        "a": "完全免费开源，无内购无广告。"
+      },
+      {
+        "q": "Thunderbird 和 Outlook 比怎么样？",
+        "a": "Thunderbird 更轻量、注重隐私；Outlook 与 Office 生态整合更紧密。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "Thunderbird 帮助",
+        "url": "https://support.thunderbird.net"
+      },
+      {
+        "name": "Thunderbird 附加组件",
+        "url": "https://addons.thunderbird.net"
+      }
+    ]
+  },
+  {
+    "slug": "putty",
+    "name": "PuTTY",
+    "category": "network",
+    "category_name": "网络通信",
+    "tagline": "轻量级 SSH 和 Telnet 客户端",
+    "official_url": "https://www.putty.org",
+    "download_url": "https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html",
+    "description": "PuTTY 是 Windows 上最流行的免费 SSH 和 Telnet 客户端，用于远程连接 Linux/Unix 服务器。虽然界面简单，但功能强大，支持 SSH 密钥认证、端口转发和多种网络协议。",
+    "why_official": "仅从 chiark.greenend.org.uk（原作者 Simon Tatham 的主页）下载。其他网站常捆绑广告软件。",
+    "platforms": [
+      "Windows"
+    ],
+    "install_guide": {
+      "windows": "前往 chiark.greenend.org.uk/~sgtatham/putty/ → 下载 putty.exe（无需安装）或 MSI 安装包。",
+      "mac": "推荐使用内置终端 + ssh 命令：ssh user@host | 或 brew install putty",
+      "linux": "sudo apt install putty (Ubuntu/Debian) | 但通常直接使用终端 ssh 命令更方便。"
+    },
+    "faq": [
+      {
+        "q": "PuTTY 是免费的吗？",
+        "a": "完全免费开源。"
+      },
+      {
+        "q": "PuTTY 支持 SSH 密钥吗？",
+        "a": "支持。使用 PuTTYgen 工具生成和转换密钥。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "PuTTY 下载页面",
+        "url": "https://www.chiark.greenend.org.uk/~sgtatham/putty/"
+      },
+      {
+        "name": "PuTTY 文档",
+        "url": "https://the.earth.li/~sgtatham/putty/0.81/htmldoc/"
+      }
+    ]
+  },
+  {
+    "slug": "vlc",
+    "name": "VLC Media Player",
+    "category": "media",
+    "category_name": "媒体工具",
+    "tagline": "万能媒体播放器，播一切格式",
+    "official_url": "https://www.videolan.org/vlc/",
+    "download_url": "https://www.videolan.org/vlc/",
+    "description": "VLC 是 VideoLAN 项目开发的免费开源媒体播放器，以开箱即播著称。几乎不需要额外解码器就能播放任何视频/音频格式，包括 MP4、MKV、AVI、FLV、MOV 及各种流媒体协议。",
+    "why_official": "VLC 是开源软件，第三方重新打包的版本可能植入广告或恶意代码。官方版本纯净无广告。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "Android",
+      "iOS"
+    ],
+    "install_guide": {
+      "windows": "前往 videolan.org/vlc/ → 点击下载 → 运行安装程序。",
+      "mac": "下载 macOS 版 → 将 VLC.app 拖入 Applications。",
+      "linux": "sudo apt install vlc | sudo dnf install vlc | sudo pacman -S vlc"
+    },
+    "faq": [
+      {
+        "q": "VLC 能播所有格式吗？",
+        "a": "几乎所有常见格式都能播。"
+      },
+      {
+        "q": "VLC 有广告吗？",
+        "a": "无任何广告。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "VideoLAN 官网",
+        "url": "https://www.videolan.org"
+      },
+      {
+        "name": "VLC 帮助",
+        "url": "https://www.videolan.org/support/"
+      }
+    ]
+  },
+  {
+    "slug": "obs-studio",
+    "name": "OBS Studio",
+    "category": "media",
+    "category_name": "媒体工具",
+    "tagline": "专业级免费直播和录屏软件",
+    "official_url": "https://obsproject.com",
+    "download_url": "https://obsproject.com/download",
+    "description": "OBS Studio 是免费开源的直播和屏幕录制软件。支持多场景切换、滤镜、音频混合、浏览器源等，是 Twitch、YouTube、Bilibili 主播的首选工具。",
+    "why_official": "仅从 obsproject.com 下载。第三方提供的「优化版」可能植入挖矿或广告。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "install_guide": {
+      "windows": "前往 obsproject.com/download → 下载 Windows 版 → 运行 OBS-Studio-*.exe",
+      "mac": "下载 macOS 版 → 将 OBS.app 拖入 Applications。",
+      "linux": "sudo apt install obs-studio | flatpak install flathub com.obsproject.Studio"
+    },
+    "faq": [
+      {
+        "q": "OBS 免费吗？",
+        "a": "完全免费开源，无水印、无时长限制。"
+      },
+      {
+        "q": "OBS 配置要求高吗？",
+        "a": "集成显卡也能流畅录屏。直播需要独立显卡以获得更好编码性能。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "OBS 文档",
+        "url": "https://obsproject.com/docs/"
+      },
+      {
+        "name": "OBS 论坛",
+        "url": "https://obsproject.com/forum/"
+      }
+    ]
+  },
+  {
+    "slug": "spotify",
+    "name": "Spotify",
+    "category": "media",
+    "category_name": "媒体工具",
+    "tagline": "全球最大的音乐流媒体平台",
+    "official_url": "https://www.spotify.com",
+    "download_url": "https://www.spotify.com/download",
+    "description": "Spotify 是全球最受欢迎的音乐流媒体服务，拥有超过 1 亿首歌曲、播客和有声书。免费版支持带广告播放，付费版提供无广告、离线下载和高音质。",
+    "why_official": "仅从 spotify.com 或官方应用商店下载。第三方提供的修改版可能包含恶意软件或账户信息窃取。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "Android",
+      "iOS",
+      "Web"
+    ],
+    "install_guide": {
+      "windows": "前往 spotify.com/download → 下载 Windows 版 → 运行安装程序，或从 Microsoft Store 安装。",
+      "mac": "从 spotify.com 下载或从 App Store 安装。",
+      "linux": "sudo snap install spotify (支持官方源) | 从 spotify.com 下载 .deb 包。"
+    },
+    "faq": [
+      {
+        "q": "Spotify 免费和有啥区别？",
+        "a": "免费版有广告，只能随机播放；付费版无广告、可离线、任意选歌、高音质。"
+      },
+      {
+        "q": "Spotify 在中国能用吗？",
+        "a": "可以，但需要网络条件支持。建议使用其他更适合中国地区的服务。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "Spotify 客服",
+        "url": "https://support.spotify.com"
+      },
+      {
+        "name": "Spotify 播客",
+        "url": "https://podcasters.spotify.com"
+      }
+    ]
+  },
+  {
+    "slug": "gimp",
+    "name": "GIMP",
+    "category": "media",
+    "category_name": "媒体工具",
+    "tagline": "免费开源的表情 Photoshop 替代品",
+    "official_url": "https://www.gimp.org",
+    "download_url": "https://www.gimp.org/downloads/",
+    "description": "GIMP（GNU Image Manipulation Program）是免费开源的图像编辑软件，功能堪比 Photoshop。支持图层、蒙版、滤镜、笔刷、路径、色彩管理、插件扩展等专业图像编辑需求。",
+    "why_official": "仅从 gimp.org 下载。第三方网站常捆绑不需要的广告软件。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "install_guide": {
+      "windows": "前往 gimp.org/downloads → 下载 Windows 版 → 运行安装程序。",
+      "mac": "下载 macOS 版 → 安装。或 brew install --cask gimp",
+      "linux": "sudo apt install gimp (Ubuntu/Debian) | sudo dnf install gimp (Fedora)"
+    },
+    "faq": [
+      {
+        "q": "GIMP 和 Photoshop 比哪个好？",
+        "a": "GIMP 免费开源，功能强大但界面不如 PS 现代化。日常修图 GIMP 完全够用。"
+      },
+      {
+        "q": "GIMP 支持插件吗？",
+        "a": "支持。社区提供了大量插件和脚本。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "GIMP 文档",
+        "url": "https://docs.gimp.org"
+      },
+      {
+        "name": "GIMP 教程",
+        "url": "https://www.gimp.org/tutorials/"
+      }
+    ]
+  },
+  {
+    "slug": "audacity",
+    "name": "Audacity",
+    "category": "media",
+    "category_name": "媒体工具",
+    "tagline": "免费开源的音频编辑和录音软件",
+    "official_url": "https://www.audacityteam.org",
+    "download_url": "https://www.audacityteam.org/download/",
+    "description": "Audacity 是免费开源的音频编辑和录音软件，支持多轨编辑、降噪、变速变调、音频格式转换等。从播客录制到音乐混音，Audacity 都能胜任，且完全免费无广告。",
+    "why_official": "仅从 audacityteam.org 下载。许多第三方网站提供捆绑了广告的版本。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "install_guide": {
+      "windows": "前往 audacityteam.org/download → 下载 Windows 版 → 运行安装程序。",
+      "mac": "下载 macOS 版 → 将 Audacity.app 拖入 Applications。",
+      "linux": "sudo apt install audacity | sudo dnf install audacity"
+    },
+    "faq": [
+      {
+        "q": "Audacity 免费吗？",
+        "a": "完全免费开源，无内购。"
+      },
+      {
+        "q": "Audacity 可以降噪吗？",
+        "a": "可以。选择一段纯噪音 → 效果 → 降噪即可。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "Audacity 文档",
+        "url": "https://manual.audacityteam.org"
+      },
+      {
+        "name": "Audacity 论坛",
+        "url": "https://forum.audacityteam.org"
+      }
+    ]
+  },
+  {
+    "slug": "handbrake",
+    "name": "HandBrake",
+    "category": "media",
+    "category_name": "媒体工具",
+    "tagline": "免费开源的视频转码工具",
+    "official_url": "https://handbrake.fr",
+    "download_url": "https://handbrake.fr/downloads.php",
+    "description": "HandBrake 是免费开源的视频转码工具，支持几乎所有视频格式之间的转换。预设了多种设备的优化配置（如 iPhone、Android、PlayStation），也支持批量处理和视频参数微调。",
+    "why_official": "仅从 handbrake.fr 下载。第三方网站提供的版本可能捆绑恶意软件。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "install_guide": {
+      "windows": "前往 handbrake.fr → 下载 Windows 版 → 运行安装程序。",
+      "mac": "下载 macOS 版 → 将 HandBrake.app 拖入 Applications。",
+      "linux": "sudo apt install handbrake | flatpak install flathub fr.handbrake.ghb"
+    },
+    "faq": [
+      {
+        "q": "HandBrake 免费吗？",
+        "a": "完全免费开源。"
+      },
+      {
+        "q": "HandBrake 能压制 4K 视频吗？",
+        "a": "可以。但需要性能较好的电脑。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "HandBrake 文档",
+        "url": "https://handbrake.fr/docs"
+      },
+      {
+        "name": "HandBrake GitHub",
+        "url": "https://github.com/HandBrake/HandBrake"
+      }
+    ]
+  },
+  {
+    "slug": "blender",
+    "name": "Blender",
+    "category": "media",
+    "category_name": "媒体工具",
+    "tagline": "免费开源的 3D 创作全流程工具",
+    "official_url": "https://www.blender.org",
+    "download_url": "https://www.blender.org/download/",
+    "description": "Blender 是最强大的免费开源 3D 创作套件，支持建模、雕刻、材质、动画、渲染、合成、视频剪辑和游戏引擎。被广泛应用于独立游戏、动画短片、VFX 和产品可视化。",
+    "why_official": "仅从 blender.org 下载。其他网站可能提供旧版或修改版。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "install_guide": {
+      "windows": "前往 blender.org/download → 下载 Windows 版 → 安装或直接运行便携版。",
+      "mac": "下载 macOS 版 → 将 Blender.app 拖入 Applications。",
+      "linux": "sudo snap install blender --classic | flatpak install flathub org.blender.Blender"
+    },
+    "faq": [
+      {
+        "q": "Blender 免费吗？",
+        "a": "完全免费开源，无内购无水印。"
+      },
+      {
+        "q": "Blender 适合初学者吗？",
+        "a": "学习曲线较陡。但社区有海量免费教程，从基础建模开始学。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "Blender 教程",
+        "url": "https://www.blender.org/get-involved/"
+      },
+      {
+        "name": "Blender 社区",
+        "url": "https://blender.community"
+      }
+    ]
+  },
+  {
+    "slug": "krita",
+    "name": "Krita",
+    "category": "media",
+    "category_name": "媒体工具",
+    "tagline": "专业级免费数字绘画软件",
+    "official_url": "https://krita.org",
+    "download_url": "https://krita.org/download/",
+    "description": "Krita 是免费开源的数字绘画软件，专为概念美术、插画、漫画和动画创作设计。支持数位屏压感、丰富的笔刷引擎、图层管理、动画时间轴和色彩管理。",
+    "why_official": "仅从 krita.org 下载。第三方网站可能捆绑恶意软件或旧版。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "Android"
+    ],
+    "install_guide": {
+      "windows": "前往 krita.org/download → 下载 Windows 版 → 运行安装程序。",
+      "mac": "下载 macOS 版 → 将 Krita.app 拖入 Applications。",
+      "linux": "sudo apt install krita | flatpak install flathub org.kde.krita"
+    },
+    "faq": [
+      {
+        "q": "Krita 适合画什么？",
+        "a": "数字绘画、插画、漫画、概念艺术。也支持基础动画制作。"
+      },
+      {
+        "q": "Krita 免费吗？",
+        "a": "完全免费开源。接受捐赠维持开发。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "Krita 用户手册",
+        "url": "https://docs.krita.org"
+      },
+      {
+        "name": "Krita 教程",
+        "url": "https://krita.org/en/tutorials/"
+      }
+    ]
+  },
+  {
+    "slug": "inkscape",
+    "name": "Inkscape",
+    "category": "media",
+    "category_name": "媒体工具",
+    "tagline": "免费开源的矢量图形编辑软件",
+    "official_url": "https://inkscape.org",
+    "download_url": "https://inkscape.org/release/",
+    "description": "Inkscape 是免费开源的矢量图形编辑器（类似 Illustrator 或 CorelDRAW），使用 SVG 作为原生格式。支持路径编辑、文本处理、位图转矢量、扩展和脚本。适合 Logo 设计、图标制作、插画。",
+    "why_official": "仅从 inkscape.org 下载。第三方网站常捆绑不需要的软件。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "install_guide": {
+      "windows": "前往 inkscape.org → 下载 Windows 版 → 运行安装程序。",
+      "mac": "下载 macOS 版 → 将 Inkscape.app 拖入 Applications。",
+      "linux": "sudo apt install inkscape | flatpak install flathub org.inkscape.Inkscape"
+    },
+    "faq": [
+      {
+        "q": "Inkscape 和 Illustrator 哪个好？",
+        "a": "Inkscape 免费开源，功能够日常使用。Illustrator 更专业但需订阅。"
+      },
+      {
+        "q": "Inkscape 支持 AI 文件吗？",
+        "a": "可以导入简单的 AI 文件，但复杂的 AI 文件可能渲染不全。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "Inkscape 教程",
+        "url": "https://inkscape.org/learn/"
+      },
+      {
+        "name": "Inkscape GitHub",
+        "url": "https://github.com/inkscape/inkscape"
+      }
+    ]
+  },
+  {
+    "slug": "7zip",
+    "name": "7-Zip",
+    "category": "utility",
+    "category_name": "办公实用",
+    "tagline": "高压缩率免费文件归档工具",
+    "official_url": "https://www.7-zip.org",
+    "download_url": "https://www.7-zip.org/download.html",
+    "description": "7-Zip 是免费开源的压缩解压工具，支持 7z、ZIP、GZIP、BZIP2、TAR、RAR（仅解压）等 30+ 格式。7z 格式压缩率通常比 ZIP 高 30-50%，完全免费无广告。",
+    "why_official": "仅从 7-zip.org 下载。其他网站常捆绑浏览器工具栏或广告软件。",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS（p7zip）"
+    ],
+    "install_guide": {
+      "windows": "前往 7-zip.org/download.html → 选择 64-bit 版本 → 运行 .exe 安装。",
+      "mac": "推荐 Keka 或 brew install p7zip",
+      "linux": "sudo apt install p7zip-full | sudo dnf install p7zip"
+    },
+    "faq": [
+      {
+        "q": "7-Zip 和 WinRAR 哪个好？",
+        "a": "7-Zip 免费开源，压缩率更高。推荐日常使用。"
+      },
+      {
+        "q": "7-Zip 能解压 RAR 吗？",
+        "a": "可以解压 .rar，但不能创建 .rar。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "7-Zip SourceForge",
+        "url": "https://sourceforge.net/projects/sevenzip/"
+      },
+      {
+        "name": "p7zip（Linux）",
+        "url": "https://sourceforge.net/projects/p7zip/"
+      }
+    ]
+  },
+  {
+    "slug": "libreoffice",
+    "name": "LibreOffice",
+    "category": "utility",
+    "category_name": "办公实用",
+    "tagline": "免费开源的 Office 办公套件",
+    "official_url": "https://www.libreoffice.org",
+    "download_url": "https://www.libreoffice.org/download/",
+    "description": "LibreOffice 是免费开源的办公套件，包含 Writer（文档）、Calc（表格）、Impress（演示）、Draw（绘图）、Base（数据库）和 Math（公式编辑器）。高度兼容 Microsoft Office 格式。",
+    "why_official": "仅从 libreoffice.org 下载。第三方网站可能捆绑不需要的软件。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "install_guide": {
+      "windows": "前往 libreoffice.org/download → 下载 Windows 版 → 运行安装程序。",
+      "mac": "下载 macOS 版 → 将 LibreOffice.app 拖入 Applications。",
+      "linux": "sudo apt install libreoffice | sudo dnf install libreoffice"
+    },
+    "faq": [
+      {
+        "q": "LibreOffice 兼容 Office 吗？",
+        "a": "高度兼容 .docx/.xlsx/.pptx，但复杂格式可能有些偏差。"
+      },
+      {
+        "q": "LibreOffice 免费吗？",
+        "a": "完全免费，无内购。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "LibreOffice 扩展",
+        "url": "https://extensions.libreoffice.org"
+      },
+      {
+        "name": "LibreOffice 帮助",
+        "url": "https://help.libreoffice.org"
+      }
+    ]
+  },
+  {
+    "slug": "obsidian",
+    "name": "Obsidian",
+    "category": "utility",
+    "category_name": "办公实用",
+    "tagline": "本地优先的知识管理和笔记应用",
+    "official_url": "https://obsidian.md",
+    "download_url": "https://obsidian.md/download",
+    "description": "Obsidian 是功能强大的知识管理和笔记应用，基于本地 Markdown 文件。通过双向链接和知识图谱将笔记连接成网络。丰富的插件生态可扩展为任务管理、日记、Zettelkasten 等系统。",
+    "why_official": "仅从 obsidian.md 下载。免费增值模式，核心功能免费，同步和发布需付费。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "Android",
+      "iOS"
+    ],
+    "install_guide": {
+      "windows": "前往 obsidian.md/download → 下载 Windows 版 → 运行安装程序。",
+      "mac": "下载 macOS 版 → 将 Obsidian.app 拖入 Applications。",
+      "linux": "sudo snap install obsidian | AppImage 或 .deb 包"
+    },
+    "faq": [
+      {
+        "q": "Obsidian 免费吗？",
+        "a": "核心功能完全免费。同步（Obsidian Sync）和发布（Obsidian Publish）需付费。"
+      },
+      {
+        "q": "Obsidian 数据存在哪里？",
+        "a": "本地。数据就是你的 Markdown 文件，完全由你掌控。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "Obsidian 社区插件",
+        "url": "https://obsidian.md/plugins"
+      },
+      {
+        "name": "Obsidian 帮助",
+        "url": "https://help.obsidian.md"
+      }
+    ]
+  },
+  {
+    "slug": "notion",
+    "name": "Notion",
+    "category": "utility",
+    "category_name": "办公实用",
+    "tagline": "集笔记、文档、数据库于一体的协作平台",
+    "official_url": "https://www.notion.so",
+    "download_url": "https://www.notion.so/desktop",
+    "description": "Notion 是功能融合的协作平台，将笔记、文档、数据库、看板、日历和 Wiki 融合在一起。通过模块化编辑器可以搭建从个人日记到项目管理的一切内容。",
+    "why_official": "仅从 notion.so 下载。第三方网站可能提供旧版或修改版。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Android",
+      "iOS",
+      "Web"
+    ],
+    "install_guide": {
+      "windows": "前往 notion.so/desktop → 下载 Windows 版 → 运行安装程序。",
+      "mac": "下载 macOS 版 → 将 Notion.app 拖入 Applications。",
+      "linux": "Notion 无官方 Linux 客户端，可使用 Web 版或第三方客户端。"
+    },
+    "faq": [
+      {
+        "q": "Notion 免费吗？",
+        "a": "个人使用免费版已足够。团队版和 AI 功能需付费。"
+      },
+      {
+        "q": "Notion 有离线模式吗？",
+        "a": "支持有限离线访问，主要依赖网络。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "Notion 帮助中心",
+        "url": "https://www.notion.so/help"
+      },
+      {
+        "name": "Notion 模板",
+        "url": "https://www.notion.so/templates"
+      }
+    ]
+  },
+  {
+    "slug": "sumatrapdf",
+    "name": "SumatraPDF",
+    "category": "utility",
+    "category_name": "办公实用",
+    "tagline": "Windows 上最轻量的 PDF/电子书阅读器",
+    "official_url": "https://www.sumatrapdfreader.org",
+    "download_url": "https://www.sumatrapdfreader.org/download-free-pdf-viewer",
+    "description": "SumatraPDF 是 Windows 平台最轻量级的多格式文档阅读器，仅 6MB 大小。支持 PDF、EPUB、MOBI、CHM、CBR/CBZ（漫画）、DJVU 等多种格式。启动极快，无广告无臃肿功能。",
+    "why_official": "仅从 sumatrapdfreader.org 下载。便携版无需安装，直接运行。",
+    "platforms": [
+      "Windows"
+    ],
+    "install_guide": {
+      "windows": "前往 sumatrapdfreader.org → 下载安装版或便携版 → 运行即可（便携版无需安装）。",
+      "mac": "无官方版本。macOS 推荐使用系统预览或 Calibre 阅读电子书。"
+    },
+    "faq": [
+      {
+        "q": "SumatraPDF 是免费的吗？",
+        "a": "完全免费开源。"
+      },
+      {
+        "q": "SumatraPDF 能编辑 PDF 吗？",
+        "a": "不能。纯阅读器，专注于极致的轻量和快速。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "SumatraPDF GitHub",
+        "url": "https://github.com/sumatrapdfreader/sumatrapdf"
+      },
+      {
+        "name": "SumatraPDF 文档",
+        "url": "https://www.sumatrapdfreader.org/docs/"
+      }
+    ]
+  },
+  {
+    "slug": "foxit-reader",
+    "name": "Foxit Reader",
+    "category": "utility",
+    "category_name": "办公实用",
+    "tagline": "功能丰富的 PDF 阅读和编辑工具",
+    "official_url": "https://www.foxit.com/pdf-reader/",
+    "download_url": "https://www.foxit.com/downloads/",
+    "description": "Foxit Reader 是功能全面的免费 PDF 阅读器，相比 Adobe Reader 更轻量但功能丰富。支持 PDF 注释、表单填写、文本编辑、签名、OCR 和文档协作。适合企业文档处理。",
+    "why_official": "仅从 foxit.com 下载。确保得到正版且安全的版本。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "Android",
+      "iOS"
+    ],
+    "install_guide": {
+      "windows": "前往 foxit.com/pdf-reader → 下载 Windows 版 → 运行安装程序。",
+      "mac": "下载 macOS 版 → 安装。"
+    },
+    "faq": [
+      {
+        "q": "Foxit Reader 免费吗？",
+        "a": "基础阅读和注释免费。PDF 编辑、OCR 等高级功能需付费。"
+      },
+      {
+        "q": "Foxit 和 Adobe Reader 哪个好？",
+        "a": "Foxit 更轻量快速，启动速度远快于 Adobe Reader。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "Foxit 支持",
+        "url": "https://www.foxit.com/support/"
+      },
+      {
+        "name": "Foxit PDF SDK",
+        "url": "https://www.foxit.com/pdf-sdk/"
+      }
+    ]
+  },
+  {
+    "slug": "calibre",
+    "name": "Calibre",
+    "category": "utility",
+    "category_name": "办公实用",
+    "tagline": "全能电子书管理和格式转换工具",
+    "official_url": "https://calibre-ebook.com",
+    "download_url": "https://calibre-ebook.com/download",
+    "description": "Calibre 是免费开源的电子书管理软件，被誉为电子书界的瑞士军刀。支持 EPUB、MOBI、AZW3、PDF、DOCX 等几乎所有格式之间的转换，也支持元数据编辑、内容服务器和电子书阅读器同步。",
+    "why_official": "仅从 calibre-ebook.com 下载。第三方网站可能提供旧版。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "install_guide": {
+      "windows": "前往 calibre-ebook.com/download → 下载 Windows 版 → 运行安装程序。",
+      "mac": "下载 macOS 版 → 将 calibre.app 拖入 Applications。",
+      "linux": "sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.sh | sudo sh /dev/stdin"
+    },
+    "faq": [
+      {
+        "q": "Calibre 免费吗？",
+        "a": "完全免费开源。"
+      },
+      {
+        "q": "Calibre 能转换所有电子书格式吗？",
+        "a": "几乎所有常见格式。核心引擎是世界上最强大的电子书格式转换器之一。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "Calibre 使用手册",
+        "url": "https://manual.calibre-ebook.com"
+      },
+      {
+        "name": "Calibre 论坛",
+        "url": "https://www.mobileread.com/forums/forumdisplay.php?f=166"
+      }
+    ]
+  },
+  {
+    "slug": "trello",
+    "name": "Trello",
+    "category": "utility",
+    "category_name": "办公实用",
+    "tagline": "简单直观的看板式项目管理工具",
+    "official_url": "https://trello.com",
+    "download_url": "https://trello.com/platforms",
+    "description": "Trello 是基于看板（Kanban）方法的项目管理工具，以直观的卡片和列形式组织任务。适合个人待办列表、团队项目管理和敏捷开发。被 Atlassian 收购后与 Jira 深度整合。",
+    "why_official": "仅从 trello.com 下载。桌面客户端本质上是 Web 版包装，也可直接使用网页版。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Android",
+      "iOS",
+      "Web"
+    ],
+    "install_guide": {
+      "windows": "前往 trello.com/platforms → 下载 Windows 版 → 安装。或直接在浏览器中使用。",
+      "mac": "下载 macOS 版 → 将 Trello.app 拖入 Applications。",
+      "linux": "Trello 推荐直接使用 Web 版。"
+    },
+    "faq": [
+      {
+        "q": "Trello 免费吗？",
+        "a": "免费版功能充足。付费版提供自动化、高级字段等。"
+      },
+      {
+        "q": "Trello 和 Notion 有什么区别？",
+        "a": "Trello 专注看板式项目管理，Notion 是全能协作平台。简单任务管理用 Trello。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "Trello 指南",
+        "url": "https://trello.com/guide"
+      },
+      {
+        "name": "Trello 模板",
+        "url": "https://trello.com/templates"
+      }
+    ]
+  },
+  {
+    "slug": "everything",
+    "name": "Everything",
+    "category": "utility",
+    "category_name": "办公实用",
+    "tagline": "Windows 上最快的文件搜索工具",
+    "official_url": "https://www.voidtools.com",
+    "download_url": "https://www.voidtools.com/downloads/",
+    "description": "Everything 是 Windows 平台上最快的文件搜索工具。通过读取 NTFS 文件系统的 USN 日志，实现近乎即时的搜索——输入关键词的瞬间就显示结果。索引整个硬盘仅需几秒。",
+    "why_official": "仅从 voidtools.com 下载。第三方网站可能捆绑不需要的软件。便携版无需安装直接运行。",
+    "platforms": [
+      "Windows"
+    ],
+    "install_guide": {
+      "windows": "前往 voidtools.com/downloads → 下载安装版或便携版 → 运行即可。",
+      "mac": "macOS 推荐使用系统 Spotlight 或 Alfred。"
+    },
+    "faq": [
+      {
+        "q": "Everything 免费吗？",
+        "a": "完全免费。个人和商业使用均可。"
+      },
+      {
+        "q": "Everything 比 Windows 搜索快多少？",
+        "a": "快数百倍。Windows 搜索可能需要几十秒，Everything 即时出结果。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "Everything 文档",
+        "url": "https://www.voidtools.com/support/everything/"
+      },
+      {
+        "name": "Everything 论坛",
+        "url": "https://www.voidtools.com/forum/"
+      }
+    ]
+  },
+  {
+    "slug": "bitwarden",
+    "name": "Bitwarden",
+    "category": "security",
+    "category_name": "安全隐私",
+    "tagline": "开源免费的跨平台密码管理器",
+    "official_url": "https://bitwarden.com",
+    "download_url": "https://bitwarden.com/download/",
+    "description": "Bitwarden 是免费开源的密码管理器，支持在所有设备间同步密码、卡片、身份信息和安全笔记。采用端到端 AES-256 加密，即使 Bitwarden 也无法查看你的密码。",
+    "why_official": "仅从 bitwarden.com 或官方应用商店下载。开源代码可审计，无后门。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "Android",
+      "iOS",
+      "Web"
+    ],
+    "install_guide": {
+      "windows": "前往 bitwarden.com/download → 下载 Windows 版 → 运行安装程序。或从浏览器安装扩展。",
+      "mac": "下载 macOS 版 → 安装。或从 App Store 安装。",
+      "linux": "sudo snap install bitwarden | AppImage 或通过 Flatpak 安装。"
+    },
+    "faq": [
+      {
+        "q": "Bitwarden 免费吗？",
+        "a": "核心功能完全免费。付费版提供 TOTP、高级安全报告等。"
+      },
+      {
+        "q": "Bitwarden 安全吗？",
+        "a": "端到端加密，源代码公开可审计。通过了第三方安全审计。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "Bitwarden 帮助中心",
+        "url": "https://bitwarden.com/help/"
+      },
+      {
+        "name": "Bitwarden GitHub",
+        "url": "https://github.com/bitwarden"
+      }
+    ]
+  },
+  {
+    "slug": "protonvpn",
+    "name": "ProtonVPN",
+    "category": "security",
+    "category_name": "安全隐私",
+    "tagline": "瑞士开发的隐私友好型 VPN",
+    "official_url": "https://protonvpn.com",
+    "download_url": "https://protonvpn.com/download",
+    "description": "ProtonVPN 是由 Proton AG（也是 Proton Mail 的创造者）开发的高安全 VPN 服务，总部在瑞士，受瑞士隐私法保护。采用强加密、无日志政策，免费版无广告无限速。",
+    "why_official": "仅从 protonvpn.com 下载。确保获得未篡改的客户端。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "Android",
+      "iOS"
+    ],
+    "install_guide": {
+      "windows": "前往 protonvpn.com/download → 下载 Windows 版 → 运行安装程序 → 登录账号。",
+      "mac": "下载 macOS 版 → 将 ProtonVPN.app 拖入 Applications。",
+      "linux": "sudo apt install protonvpn (通过官方仓库) | 或下载 .deb 包。"
+    },
+    "faq": [
+      {
+        "q": "ProtonVPN 免费吗？",
+        "a": "免费版提供 3 个国家服务器，无限流量无广告。付费版解锁更多国家和高级功能。"
+      },
+      {
+        "q": "ProtonVPN 在中国能用吗？",
+        "a": "取决于网络环境，不保证可用。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "ProtonVPN 状态页",
+        "url": "https://protonstatus.com"
+      },
+      {
+        "name": "ProtonVPN 支持",
+        "url": "https://protonvpn.com/support"
+      }
+    ]
+  },
+  {
+    "slug": "signal",
+    "name": "Signal",
+    "category": "security",
+    "category_name": "安全隐私",
+    "tagline": "最安全的端到端加密通讯应用",
+    "official_url": "https://signal.org",
+    "download_url": "https://signal.org/download/",
+    "description": "Signal 是注重隐私的即时通讯应用，所有通信都使用端到端加密，连 Signal 自身也无法读取消息内容。被 Edward Snowden、Elon Musk 等人推荐。加密协议被 WhatsApp 等行业采用。",
+    "why_official": "仅从 signal.org 或官方应用商店下载。确保加密协议未被篡改。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "Android",
+      "iOS"
+    ],
+    "install_guide": {
+      "windows": "前往 signal.org/download → 下载 Windows 版 → 运行安装程序。",
+      "mac": "下载 macOS 版 → 将 Signal.app 拖入 Applications。",
+      "linux": "sudo snap install signal-desktop | 参考官网添加仓库后 apt install signal-desktop"
+    },
+    "faq": [
+      {
+        "q": "Signal 免费吗？",
+        "a": "完全免费，无广告。由基金会资助运营。"
+      },
+      {
+        "q": "Signal 比 WhatsApp 安全吗？",
+        "a": "两者都使用同级别的 Signal 协议，但 Signal 收集的元数据极少。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "Signal 支持",
+        "url": "https://support.signal.org"
+      },
+      {
+        "name": "Signal 协议",
+        "url": "https://signal.org/docs/"
+      }
+    ]
+  },
+  {
+    "slug": "veracrypt",
+    "name": "VeraCrypt",
+    "category": "security",
+    "category_name": "安全隐私",
+    "tagline": "免费开源的磁盘加密工具",
+    "official_url": "https://www.veracrypt.fr",
+    "download_url": "https://www.veracrypt.fr/en/Downloads.html",
+    "description": "VeraCrypt 是免费开源的磁盘加密软件（TrueCrypt 的继承者），可在文件、分区或整个磁盘上创建加密容器。支持多种加密算法组合和隐藏卷（ plausible deniability）。",
+    "why_official": "仅从 veracrypt.fr 下载。确保没有篡改的加密软件是信息安全的基本要求。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "install_guide": {
+      "windows": "前往 veracrypt.fr → 下载 Windows 版 → 运行安装程序 → 建议同时下载签名文件验证。",
+      "mac": "下载 macOS 版 → 安装。",
+      "linux": "sudo apt install veracrypt | 或下载 tar.gz 包解压运行。"
+    },
+    "faq": [
+      {
+        "q": "VeraCrypt 免费吗？",
+        "a": "完全免费开源。"
+      },
+      {
+        "q": "VeraCrypt 和 BitLocker 有什么区别？",
+        "a": "VeraCrypt 跨平台、开源可审计，隐藏卷功能更强大。BitLocker 仅限 Windows。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "VeraCrypt 文档",
+        "url": "https://www.veracrypt.fr/en/Documentation.html"
+      },
+      {
+        "name": "VeraCrypt GitHub",
+        "url": "https://github.com/veracrypt/VeraCrypt"
+      }
+    ]
+  },
+  {
+    "slug": "ublock-origin",
+    "name": "uBlock Origin",
+    "category": "security",
+    "category_name": "安全隐私",
+    "tagline": "最高效的浏览器广告和内容拦截器",
+    "official_url": "https://ublockorigin.com",
+    "download_url": "https://ublockorigin.com",
+    "description": "uBlock Origin 是免费开源的浏览器扩展，用于拦截广告、跟踪器、恶意域名和烦人的网站元素。比 AdBlock Plus 更轻量、更高效，CPU 和内存占用极低。开发者 Raymond Hill 持续更新。",
+    "why_official": "仅从浏览器官方扩展商店（Chrome Web Store、Firefox Addons）安装。第三方网站可能提供修改版。",
+    "platforms": [
+      "Chrome",
+      "Firefox",
+      "Edge",
+      "Opera",
+      "Brave"
+    ],
+    "install_guide": {
+      "windows": "Chrome: 打开 Chrome Web Store → 搜索 uBlock Origin → 添加到 Chrome。Firefox: Firefox Addons → 搜索安装。",
+      "mac": "与 Windows 相同。从对应浏览器的扩展商店安装。",
+      "linux": "与 Windows 相同。"
+    },
+    "faq": [
+      {
+        "q": "uBlock Origin 免费吗？",
+        "a": "完全免费开源，接受捐赠。"
+      },
+      {
+        "q": "uBlock 和 AdBlock 哪个好？",
+        "a": "uBlock Origin 更轻量、功能更强大，推荐首选。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "uBlock Origin GitHub",
+        "url": "https://github.com/gorhill/uBlock"
+      },
+      {
+        "name": "uBlock 过滤器列表",
+        "url": "https://github.com/gorhill/uBlock/wiki/Dashboard:-Filter-lists"
+      }
+    ]
+  },
+  {
+    "slug": "malwarebytes",
+    "name": "Malwarebytes",
+    "category": "security",
+    "category_name": "安全隐私",
+    "tagline": "专业级恶意软件扫描和清除工具",
+    "official_url": "https://www.malwarebytes.com",
+    "download_url": "https://www.malwarebytes.com/download",
+    "description": "Malwarebytes 是专注于恶意软件检测和清除的安全软件，擅长发现传统杀毒软件遗漏的广告软件、PUP（潜在不需要的程序）和勒索软件。免费版用作第二意见扫描器非常有效。",
+    "why_official": "仅从 malwarebytes.com 下载。确保获得正版无篡改的安装包。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Android",
+      "iOS"
+    ],
+    "install_guide": {
+      "windows": "前往 malwarebytes.com → 下载免费版 → 运行安装程序 → 选择个人使用。",
+      "mac": "下载 macOS 版 → 安装。"
+    },
+    "faq": [
+      {
+        "q": "Malwarebytes 免费和付费区别？",
+        "a": "免费版仅限手动扫描，付费版提供实时防护。"
+      },
+      {
+        "q": "Malwarebytes 和 Windows Defender 冲突吗？",
+        "a": "不冲突。Malwarebytes 与 Defender 兼容，可同时运行。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "Malwarebytes 帮助",
+        "url": "https://support.malwarebytes.com"
+      },
+      {
+        "name": "Malwarebytes 博客",
+        "url": "https://blog.malwarebytes.com"
+      }
+    ]
+  },
+  {
+    "slug": "ccleaner",
+    "name": "CCleaner",
+    "category": "security",
+    "category_name": "安全隐私",
+    "tagline": "系统清理和隐私保护工具",
+    "official_url": "https://www.ccleaner.com",
+    "download_url": "https://www.ccleaner.com/download",
+    "description": "CCleaner 是最知名的系统清理工具，用于清理临时文件、浏览器缓存、Cookies 和注册表垃圾。由 Piriform 开发（现属 Avast）。注意：2017 年曾发生过供应链攻击事件，现在已修复增强安全。",
+    "why_official": "仅从 ccleaner.com 下载。第三方网站常捆绑广告软件。安装时注意取消可选捆绑。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Android"
+    ],
+    "install_guide": {
+      "windows": "前往 ccleaner.com/download → 下载免费版 → 运行安装程序 → 注意取消勾选可选软件。",
+      "mac": "下载 macOS 版 → 安装。"
+    },
+    "faq": [
+      {
+        "q": "CCleaner 免费吗？",
+        "a": "基础清理功能免费。付费版提供实时监控和自动清理。"
+      },
+      {
+        "q": "CCleaner 安全吗？",
+        "a": "从官网下载是安全的。注意安装时取消不需要的捆绑。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "CCleaner 支持",
+        "url": "https://support.ccleaner.com"
+      },
+      {
+        "name": "Piriform 官网",
+        "url": "https://www.piriform.com"
+      }
+    ]
+  },
+  {
+    "slug": "keepassxc",
+    "name": "KeePassXC",
+    "category": "security",
+    "category_name": "安全隐私",
+    "tagline": "本地离线密码管理器（跨平台）",
+    "official_url": "https://keepassxc.org",
+    "download_url": "https://keepassxc.org/download/",
+    "description": "KeePassXC 是免费开源的本地密码管理器，是 KeePass 的现代化跨平台分支。密码完全存储在本地加密文件中，不依赖任何云服务。支持自动填充、浏览器集成、SSH 代理等。",
+    "why_official": "仅从 keepassxc.org 下载。开源代码可审计，不联网确保数据库安全。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "install_guide": {
+      "windows": "前往 keepassxc.org/download → 下载 Windows 版 → 运行安装程序。",
+      "mac": "brew install --cask keepassxc | 或下载 .dmg 安装。",
+      "linux": "sudo apt install keepassxc | flatpak install flathub org.keepassxc.KeePassXC"
+    },
+    "faq": [
+      {
+        "q": "KeePassXC 和 Bitwarden 哪个好？",
+        "a": "KeePassXC 完全不联网、完全本地化；Bitwarden 方便跨设备同步。需求不同。"
+      },
+      {
+        "q": "KeePassXC 数据库文件安全吗？",
+        "a": "使用 AES-256 或 ChaCha20 加密，主密码是唯一入口。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "KeePassXC 文档",
+        "url": "https://keepassxc.org/docs/"
+      },
+      {
+        "name": "KeePassXC GitHub",
+        "url": "https://github.com/keepassxreboot/keepassxc"
+      }
+    ]
+  },
+  {
+    "slug": "wireguard",
+    "name": "WireGuard",
+    "category": "security",
+    "category_name": "安全隐私",
+    "tagline": "现代、高速、安全的 VPN 协议和工具",
+    "official_url": "https://www.wireguard.com",
+    "download_url": "https://www.wireguard.com/install/",
+    "description": "WireGuard 是最新一代 VPN 协议和实现，以极简的代码量（约 4000 行）和出色的性能著称。比 OpenVPN 更快更安全，已集成到 Linux 内核中。由 Jason A. Donenfeld 开发。",
+    "why_official": "仅从 wireguard.com 下载。代码简短到容易审计，安全性高。",
+    "platforms": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "Android",
+      "iOS"
+    ],
+    "install_guide": {
+      "windows": "前往 wireguard.com/install → 下载 Windows 版 → 运行安装程序。",
+      "mac": "brew install wireguard-tools | 或从 App Store 安装官方客户端。",
+      "linux": "Linux 内核已内置 WireGuard。sudo apt install wireguard | sudo dnf install wireguard-tools"
+    },
+    "faq": [
+      {
+        "q": "WireGuard 和 OpenVPN 哪个好？",
+        "a": "WireGuard 更简单更快，代码量是 OpenVPN 的 1%。但 OpenVPN 更成熟配置更灵活。"
+      },
+      {
+        "q": "WireGuard 是 VPN 服务吗？",
+        "a": "是 VPN 协议和工具。你需要自己的服务器或第三方服务商提供的 WireGuard 配置。"
+      }
+    ],
+    "related_links": [
+      {
+        "name": "WireGuard 白皮书",
+        "url": "https://www.wireguard.com/papers/wireguard.pdf"
+      },
+      {
+        "name": "WireGuard 快速开始",
+        "url": "https://www.wireguard.com/quickstart/"
+      }
+    ]
+  }
+]

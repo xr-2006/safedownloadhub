@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PuTTY Official Download — Safe & Verified Source</title>
+    <meta name="description" content="Download PuTTY from the official source. 轻量级 SSH 和 Telnet 客户端. Safe, verified, no malware. Official download link and installation guide for all platforms.">
+    <link rel="canonical" href="https://officialdownloadhub.com/putty/">
+    <style>
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+        :root {
+            --bg: #0f1117;
+            --bg-card: #1a1c25;
+            --bg-hover: #22242e;
+            --text: #e4e6ef;
+            --text-dim: #8b8fa3;
+            --accent: #6c5ce7;
+            --accent-hover: #7c6ff0;
+            --green: #00b894;
+            --orange: #fdcb6e;
+            --border: #2a2d3a;
+            --radius: 12px;
+            --max-w: 960px;
+        }
+        html { font-size: 16px; scroll-behavior: smooth; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.7;
+            min-height: 100vh;
+        }
+        a { color: var(--accent); text-decoration: none; }
+        a:hover { color: var(--accent-hover); text-decoration: underline; }
+        .container { max-width: var(--max-w); margin: 0 auto; padding: 0 20px; }
+
+        /* Header */
+        header {
+            background: var(--bg-card);
+            border-bottom: 1px solid var(--border);
+            padding: 16px 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            backdrop-filter: blur(12px);
+        }
+        header .container {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .logo { font-size: 1.3rem; font-weight: 700; color: var(--text); }
+        .logo span { color: var(--accent); }
+        nav a {
+            color: var(--text-dim);
+            margin-left: 24px;
+            font-size: 0.9rem;
+            transition: color 0.2s;
+        }
+        nav a:hover { color: var(--text); text-decoration: none; }
+
+        /* Buttons */
+        .btn {
+            display: inline-block;
+            padding: 14px 32px;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 1rem;
+            border: none;
+            cursor: pointer;
+            transition: all 0.2s;
+            text-decoration: none;
+        }
+        .btn-primary {
+            background: var(--accent);
+            color: #fff;
+        }
+        .btn-primary:hover {
+            background: var(--accent-hover);
+            transform: translateY(-1px);
+            text-decoration: none;
+            color: #fff;
+        }
+        .btn-secondary {
+            background: var(--bg-hover);
+            color: var(--text);
+            border: 1px solid var(--border);
+        }
+        .btn-secondary:hover {
+            background: var(--border);
+            text-decoration: none;
+            color: var(--text);
+        }
+
+        /* Cards */
+        .card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 32px;
+            margin-bottom: 24px;
+        }
+
+        /* Tags */
+        .tag {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 500;
+            background: var(--bg-hover);
+            color: var(--text-dim);
+            margin-right: 6px;
+            margin-bottom: 6px;
+        }
+        .tag-green { background: rgba(0, 184, 148, 0.15); color: var(--green); }
+        .tag-accent { background: rgba(108, 92, 231, 0.15); color: var(--accent); }
+
+        /* FAQ */
+        .faq-item {
+            border-bottom: 1px solid var(--border);
+            padding: 16px 0;
+        }
+        .faq-item:last-child { border-bottom: none; }
+        .faq-q {
+            font-weight: 600;
+            color: var(--text);
+            margin-bottom: 6px;
+            cursor: pointer;
+        }
+        .faq-a { color: var(--text-dim); font-size: 0.95rem; }
+
+        /* Software grid on homepage */
+        .software-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+            gap: 16px;
+            margin: 24px 0;
+        }
+        .software-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 20px;
+            transition: all 0.2s;
+        }
+        .software-card:hover {
+            border-color: var(--accent);
+            transform: translateY(-2px);
+        }
+        .software-card h3 { margin-bottom: 6px; }
+        .software-card h3 a { color: var(--text); }
+        .software-card h3 a:hover { color: var(--accent); text-decoration: none; }
+        .software-card .tagline { color: var(--text-dim); font-size: 0.9rem; margin-bottom: 12px; }
+        .software-card .platforms { margin-top: 12px; }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 40px 0;
+            color: var(--text-dim);
+            font-size: 0.85rem;
+            border-top: 1px solid var(--border);
+            margin-top: 60px;
+        }
+
+        /* Page-specific */
+        main { padding: 40px 0; }
+        h1 { font-size: 2rem; margin-bottom: 8px; }
+        h2 { font-size: 1.4rem; margin: 32px 0 16px; color: var(--text); }
+        .subtitle { color: var(--text-dim); font-size: 1.1rem; margin-bottom: 24px; }
+        .download-section { text-align: center; padding: 40px; margin: 24px 0; }
+        .install-step { margin: 8px 0; padding: 12px 16px; background: var(--bg-hover); border-radius: 8px; font-size: 0.95rem; }
+        .install-step code { background: var(--bg); padding: 2px 6px; border-radius: 4px; font-size: 0.9rem; }
+        .cat-section { margin-bottom: 40px; }
+        .cat-section h2 { border-bottom: 2px solid var(--border); padding-bottom: 8px; }
+
+        @media (max-width: 600px) {
+            .software-grid { grid-template-columns: 1fr; }
+            header .container { flex-direction: column; gap: 8px; }
+            nav a { margin: 0 10px; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <a href="/" class="logo">⬇️ <span>Official</span>Download Hub</a>
+            <nav>
+                <a href="/">Home</a>
+                <a href="/categories/game">🎮 Games</a>
+                <a href="/categories/dev">🛠️ Dev</a>
+                <a href="/categories/network">🌐 Network</a>
+                <a href="/categories/media">🎵 Media</a>
+                <a href="/categories/utility">📋 Utility</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            
+<nav style="margin-bottom:24px;font-size:0.9rem;color:var(--text-dim)">
+    <a href="/">Home</a> / <a href="/categories/network">网络通信</a> / PuTTY
+</nav>
+
+<div class="card download-section">
+    <h1>PuTTY</h1>
+    <p style="color:var(--text-dim);font-size:1.1rem;margin:12px 0 24px">轻量级 SSH 和 Telnet 客户端</p>
+    <div style="margin-bottom:16px">
+        
+        <span class="tag tag-green">Windows</span>
+        
+    </div>
+    <a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html" class="btn btn-primary" target="_blank" rel="noopener noreferrer">📥 Download PuTTY (Official)</a>
+    <p style="margin-top:12px;font-size:0.85rem;color:var(--text-dim)">
+        ⚡ Directs to the official download page at <code style="background:var(--bg);padding:2px 6px;border-radius:4px">www.putty.org</code>
+    </p>
+</div>
+
+<div class="card">
+    <h2>What is PuTTY?</h2>
+    <p>PuTTY 是 Windows 上最流行的免费 SSH 和 Telnet 客户端，用于远程连接 Linux/Unix 服务器。虽然界面简单，但功能强大，支持 SSH 密钥认证、端口转发和多种网络协议。</p>
+</div>
+
+<div class="card" style="border-left:4px solid var(--green)">
+    <h2>✅ Why Download from the Official Source?</h2>
+    <p>仅从 chiark.greenend.org.uk（原作者 Simon Tatham 的主页）下载。其他网站常捆绑广告软件。</p>
+</div>
+
+<div class="card">
+    <h2>📖 Installation Guide</h2>
+    
+    <div class="install-step">🪟 <strong>Windows:</strong> 前往 chiark.greenend.org.uk/~sgtatham/putty/ → 下载 putty.exe（无需安装）或 MSI 安装包。</div>
+    
+    
+    <div class="install-step">🍎 <strong>macOS:</strong> 推荐使用内置终端 + ssh 命令：ssh user@host | 或 brew install putty</div>
+    
+    
+    <div class="install-step">🐧 <strong>Linux:</strong> sudo apt install putty (Ubuntu/Debian) | 但通常直接使用终端 ssh 命令更方便。</div>
+    
+</div>
+
+
+<div class="card">
+    <h2>❓ Frequently Asked Questions</h2>
+    
+    <div class="faq-item">
+        <div class="faq-q">PuTTY 是免费的吗？</div>
+        <div class="faq-a">完全免费开源。</div>
+    </div>
+    
+    <div class="faq-item">
+        <div class="faq-q">PuTTY 支持 SSH 密钥吗？</div>
+        <div class="faq-a">支持。使用 PuTTYgen 工具生成和转换密钥。</div>
+    </div>
+    
+</div>
+
+
+
+<div class="card">
+    <h2>🔗 Official Resources</h2>
+    <ul style="list-style:none;padding:0">
+        
+        <li style="margin:8px 0"><a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/" target="_blank" rel="noopener noreferrer">PuTTY 下载页面</a></li>
+        
+        <li style="margin:8px 0"><a href="https://the.earth.li/~sgtatham/putty/0.81/htmldoc/" target="_blank" rel="noopener noreferrer">PuTTY 文档</a></li>
+        
+    </ul>
+</div>
+
+
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>Official Download Hub — Your trusted guide to official software sources.</p>
+            <p style="margin-top:8px;font-size:0.8rem">We are not affiliated with any software listed. All trademarks belong to their respective owners.</p>
+        </div>
+    </footer>
+</body>
+</html>

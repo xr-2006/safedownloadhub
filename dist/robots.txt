@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://officialdownloadhub.com/sitemap.xml
